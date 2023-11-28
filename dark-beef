@@ -2,4 +2,4 @@
 
 cd /usr/share/beef-xss/
 
-ruby beef
+ruby beef -x
